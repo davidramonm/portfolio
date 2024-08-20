@@ -15,14 +15,6 @@
     background-color: #DCDCDC;
 }
 
-.caixa-principal1 {
-    height: 100vh;
-    width: 100%;
-    background-size: cover;
-    background-position: left;
-    background-color: #DCDCDC;
-}
-
 nav {
     display: flex;
     align-items: center;
